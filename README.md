@@ -1,3 +1,3 @@
 # solar-trek
 
-if it didn,t work open update
+if it didn't work open update
